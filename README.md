@@ -68,7 +68,6 @@ For example:
 |                                            |     340                                                                  |
 |                                            |     Congratulations! You found the code! The code is 340                 |
 |                                            |                                                                          |
-|                                            |                                                                          |
 |  4 Z 17 16 7 8 6 5 13 8 50 402 4000 400    |  1) Please enter your birthday between 1 and 7(example Mon=1, Tue=2..):  |
 |                                            |       4                                                                  |
 |                                            |       Enter initial letter of your name, (capital english letters only)  |
