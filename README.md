@@ -97,3 +97,7 @@ For example:
 |                                            |       It is not correct!                                                 |
 |                                            |       400                                                                |
 |                                            |       Congratulations! You found the code! The code is 400               |
+
+## Projec 2
+we encrypt the predetermined messages into pictures. (Encrypting_Message_1.c)
+Then we use a decoder to decode these messages. (Encrypting_Message_2.c)
