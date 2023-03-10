@@ -40,59 +40,60 @@ In addition to these methods you can also implement more functions.
 Hint: Please be careful about the messages on the output of the example. If you think your algorithm works but you got red screen, probably you misspell something in the output screen.
 
 For example:
-Input							                            Result
--1 3 C 27 15 9 36 33 34 10 341 340				    1) Please enter your birthday between 1 and 7(example Mon=1, Tue=2..):
-                                                 -1
-                                                 Please enter an appropriate day!
-                                                 3
-                                                 Enter initial letter of your name, (capital english letters only)
-                                                 C --> 3
-                                              2) What is the 3th power of 3?
-                                                 27
-                                              3) How many prime numbers can you count until 27?
-                                                 15
-                                                 It is not correct!
-                                                 9
-                                              4) Enter 9th element of the Fibonacci series:
-                                                 36
-                                                 It is not correct!
-                                                 33
-                                                 It is not correct!
-                                                 34
-                                                 Enter your age(between 1-100):
-                                                 10
-                                              5) What is the result of 34 * 10?
-                                                 341
-                                                 It is not correct!
-                                                 340
-                                                 Congratulations! You found the code! The code is 340
-
-4 Z 17 16 7 8 6 5 13 8 50 402 4000 400				1) Please enter your birthday between 1 and 7(example Mon=1, Tue=2..):
-                                                 4
-                                                 Enter initial letter of your name, (capital english letters only)
-                                                 Z --> 2
-                                              2) What is the 4th power of 2?
-                                                 17
-                                                 It is not correct!
-                                                 16
-                                              3) How many prime numbers can you count until 16?
-                                                 7
-                                                 It is not correct!
-                                                 8
-                                                 It is not correct!
-                                                 6
-                                              4) Enter 6th element of the Fibonacci series:
-                                                 5
-                                                 It is not correct!
-                                                 13
-                                                 It is not correct!
-                                                 8
-                                                 Enter your age(between 1-100):
-                                                 50
-                                              5) What is the result of 8 * 50?
-                                                 402
-                                                 It is not correct!
-                                                 4000
-                                                 It is not correct!
-                                                 400
-                                                 Congratulations! You found the code! The code is 400
+|                  Input 							       |                                  Result                                  |
+|--------------------------------------------|--------------------------------------------------------------------------|
+|    -1 3 C 27 15 9 36 33 34 10 341 340			 | 1) Please enter your birthday between 1 and 7(example Mon=1, Tue=2..):   |
+|                                            |    -1                                                                    |
+|                                            |     Please enter an appropriate day!                                     |
+|                                            |     3                                                                    |
+|                                            |     Enter initial letter of your name, (capital english letters only)    |
+|                                            |     C --> 3                                                              |
+|                                            |  2) What is the 3th power of 3?                                          |
+|                                            |     27                                                                   |
+|                                            |  3) How many prime numbers can you count until 27?                       |
+|                                            |     15                                                                   |
+|                                            |     It is not correct!                                                   |
+|                                            |     9                                                                    |
+|                                            |  4) Enter 9th element of the Fibonacci series:                           |
+|                                            |     36                                                                   |
+|                                            |     It is not correct!                                                   |
+|                                            |     33                                                                   |
+|                                            |     It is not correct!                                                   |
+|                                            |     34                                                                   |
+|                                            |     Enter your age(between 1-100):                                       |
+|                                            |     10                                                                   |
+|                                            |  5) What is the result of 34 * 10?                                       |
+|                                            |     341                                                                  |
+|                                            |     It is not correct!                                                   |
+|                                            |     340                                                                  |
+|                                            |     Congratulations! You found the code! The code is 340                 |
+|                                            |                                                                          |
+|  4 Z 17 16 7 8 6 5 13 8 50 402 4000 400    |  1) Please enter your birthday between 1 and 7(example Mon=1, Tue=2..):  |
+|                                            |       4                                                                  |
+|                                            |       Enter initial letter of your name, (capital english letters only)  |
+|                                            |       Z --> 2                                                            |
+|                                            |    2) What is the 4th power of 2?                                        |
+|                                            |       17                                                                 |
+|                                            |       It is not correct!                                                 |
+|                                            |       16                                                                 |
+|                                            |    3) How many prime numbers can you count until 16?                     |
+|                                            |       7                                                                  |
+|                                            |       It is not correct!                                                 |
+|                                            |       8                                                                  |
+|                                            |       It is not correct!                                                 |
+|                                            |       6                                                                  |
+|                                            |    4) Enter 6th element of the Fibonacci series:                         |
+|                                            |       5                                                                  |
+|                                            |       It is not correct!                                                 |
+|                                            |       13                                                                 |
+|                                            |       It is not correct!                                                 |
+|                                            |       8                                                                  |
+|                                            |       Enter your age(between 1-100):                                     |
+|                                            |       50                                                                 |
+|                                            |    5) What is the result of 8 * 50?                                      |
+|                                            |       402                                                                |
+|                                            |       It is not correct!                                                 |
+|                                            |       4000                                                               |
+|                                            |       It is not correct!                                                 |
+|                                            |       400                                                                |
+|                                            |       Congratulations! You found the code! The code is 400               |
